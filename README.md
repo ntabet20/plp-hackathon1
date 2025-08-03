@@ -120,7 +120,7 @@ to discuss what you would like to change
 
 Salomon Ntabet - <ntabetsalomon@gmail.com>
 
-Project Link: <https://github.com/ntabet20/portfolio_website>
+Project Link: [My Portfolio](https://github.com/ntabet20/portfolio_website)
 
 ## License
 
