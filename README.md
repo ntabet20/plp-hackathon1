@@ -54,13 +54,13 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-      [git] clone (https://github.com/ntabet20/portfolio_website.git)
+      <span style="color:blue">git</span> clone <https://github.com/ntabet20/portfolio_website.git>
    ```
 
 2. Open the project folder:
 
    ```bash
-   [cd] portfolio_website
+   <span style="color:blue">cd</span> portfolio_website
    ```
 
 3. Open `index.html` in your browser
@@ -74,12 +74,12 @@ To customize this portfolio for own use:
 3. Modify the color scheme by changing CSS variables:
 
   ```css
-    [:root] {
-      [--primary]: #2563eb;
-      [--primary-dark]: #1d4ed8;
-      [--secondary]: #8b5cf6;
-      [--dark]: #1e293b;
-      [--light]: #f8fafc;
+    <span style="color:green">:root</span> {
+      <span style="color:red">--primary</span>: #2563eb;
+      <span style="color:red">--primary-dark</span>: #1d4ed8;
+      <span style="color:red">--secondary</span>: #8b5cf6;
+      <span style="color:red">--dark</span>: #1e293b;
+      <span style="color:red">--light</span>: #f8fafc;
   }
   ```
 
@@ -113,7 +113,7 @@ to discuss what you would like to change
 
 ## Acknowledgements
 
-* [PLP Africa](https://www.powerlearnprojectafrica.org/)
+* <PLP Africa>(https://www.powerlearnprojectafrica.org/)
 
 ## Contact
 
