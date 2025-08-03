@@ -54,7 +54,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-      git clone <https://github.com/ntabet20/portfolio_website.git>
+      git clone https://github.com/ntabet20/portfolio_website.git
    ```
 
 2. Open the project folder:
@@ -114,6 +114,7 @@ to discuss what you would like to change
 ## Acknowledgements
 
 * [PLP Africa](https://www.powerlearnprojectafrica.org/)
+* My Deskie [Sandra Lengue](https://www.linkedin.com/in/sandra-lengue-138a99291/)
 
 ## Contact
 
