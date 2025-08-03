@@ -113,7 +113,7 @@ to discuss what you would like to change
 
 ## Acknowledgements
 
-* <PLP Africa>(https://www.powerlearnprojectafrica.org/)
+* [PLP Africa] (https://www.powerlearnprojectafrica.org/)
 
 ## Contact
 
