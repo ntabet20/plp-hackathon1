@@ -54,7 +54,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-      git clone https://github.com/ntabet20/portfolio_website.git
+   git clone https://github.com/ntabet20/portfolio_website.git
    ```
 
 2. Open the project folder:
